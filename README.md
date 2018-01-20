@@ -12,3 +12,5 @@ pip install urllib3
 pip install lxml
 pip install wikipedia
 pip install googletrans
+
+https://github.com/Gendjex/vipro
